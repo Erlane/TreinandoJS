@@ -1,0 +1,26 @@
+* {
+	background-color: pink;
+	height: 90%;
+}
+
+section {
+	display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 5rem;
+}
+
+#seta {
+	height: 30vh;
+	transform: rotate(180deg);
+}
+
+#gato {
+	border-radius: 22%;
+    height: 50vh;
+}
+
+#seta1 {
+	height: 30vh;
+	
+}
